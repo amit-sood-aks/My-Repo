@@ -1,7 +1,0 @@
-Name of Team members
-
-Suhani Patel
-Anmol Chand
-Haryanth Vanam
-
-Name of Common repository - project-BIOL510
